@@ -1,7 +1,7 @@
 from openai import OpenAI
 
 client = OpenAI(
-  api_key="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",
+  api_key="",
 )
 student_1_description = "ali Nguyen is a sophomore majoring in computer\
   science at Harvard University. He is Asian American and has a 3.8 GPA. \
